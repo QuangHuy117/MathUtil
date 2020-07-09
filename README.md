@@ -9,7 +9,7 @@ course at FPT University HCMC Campus
 * Build configuration file using for Jenkins
 
 ## Contact me via:
-1.[GitHub](http://github.com/QuangHuy117)
-2.[Facebook](https://facebook.com/QuangHuy)
-3.[Email](tranvanquanghuy117@gmail.com)
+1. [GitHub](http://github.com/QuangHuy117)
+2. [Facebook](https://facebook.com/QuangHuy)
+3. [Email](tranvanquanghuy117@gmail.com)
 #### © 2020 by Quang Huy
