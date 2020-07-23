@@ -19,6 +19,8 @@ public class MathUtil {
     //mình chỉ nên tính n <= 15, vì 20! to lắm
     public static long computerFactorial(int n) {
         
+        if(n < 0 || n >15)
+            throw new IllegalArgumentException("Invalid argument n must be >= 0 and <=15");
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
